@@ -26,9 +26,5 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Package lock dependencies
-package-lock.json
-yarn.lock
-
 # Cache files
 .cache/
