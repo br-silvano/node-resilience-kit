@@ -2,7 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/node-resilience-kit.svg)](https://www.npmjs.com/package/node-resilience-kit)
 [![build status](https://img.shields.io/github/actions/workflow/status/br-silvano/node-resilience-kit/ci.yml?branch=main)](https://github.com/br-silvano/node-resilience-kit/actions)
-[![code coverage](https://img.shields.io/codecov/c/github/br-silvano/node-resilience-kit/main)](https://codecov.io/gh/br-silvano/node-resilience-kit)
 [![license](https://img.shields.io/npm/l/node-resilience-kit)](LICENSE)
 
 > Pluggable resilience kit for Node.js with Circuit Breaker, Retry, and Fallback to make your async calls more robust.
